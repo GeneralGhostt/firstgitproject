@@ -1,0 +1,17 @@
+commit 6a27bf298d2f9d0279b5c6f7796a4c8b7af47d2b
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:52:14 2017 +0100
+
+    5.th
+
+commit f6d7aadc58a334758755fe4811e70453a9e58844
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:50:02 2017 +0100
+
+    3.
+
+commit 6cac104736bf5285b385a6f1eeb7ac68b3ba3ff2
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:41:36 2017 +0100
+
+    elso commit
